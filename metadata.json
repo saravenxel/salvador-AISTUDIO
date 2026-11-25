@@ -1,0 +1,6 @@
+{
+  "name": "Salvador Sánchez, Esq. | Long Beach Attorney",
+  "description": "Salvador Sánchez, Esq. — Long Beach attorney providing criminal defense, immigration, and civil representation in English and Spanish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
